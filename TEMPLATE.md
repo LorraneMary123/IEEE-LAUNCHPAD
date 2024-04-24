@@ -1,8 +1,8 @@
-# Full Name 
+# Full Name Lorrane Mary Thomas 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> write about your self I have completed my BCA sixth semester and waiting for the results without any supply in the previous semesters. I have a basic understanding of the web development life cycle. I have a better understanding of the basics of languages such as Python,  PHP and frameworks such as Django. I have some experience with databases such as MySQL and PostgreSQL .................. (minimum 200 Characters)
 
 
 ## Portfolio Highlights
