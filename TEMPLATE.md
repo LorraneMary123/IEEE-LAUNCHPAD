@@ -1,4 +1,4 @@
-Lorrane Mary Thomas 
+**Lorrane Mary Thomas**
 
 ### About Me
 
@@ -10,8 +10,8 @@ I have completed my BCA sixth semester and waiting for the results without any s
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Turf Everywhere**  | Enables user to book sports playground online                                             | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
+| **Green Lane Control**  | Manages the traffic signal automatically                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
 
 #### Leadership and Influence:
 
